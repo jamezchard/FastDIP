@@ -1,0 +1,11 @@
+---
+BasedOnStyle: Google
+BinPackArguments: true
+BinPackParameters: false
+DerivePointerAlignment: false
+PointerAlignment: Right
+IndentWidth: 2
+ColumnLimit: 0
+SortIncludes: false
+---
+
